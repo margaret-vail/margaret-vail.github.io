@@ -3,11 +3,11 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.presentations.featured %}
-        <p>{{ item.author }} {{ item.date }} <i>{{ item.title }}</i>{{ item.type }} {{ item.conference }} {{ item.location }} <a href="{{ item.url }}">{{ item.url }}</a></p>
+        <p>{{ item.author }} {{ item.date }} <i>{{ item.title }}</i> {{ item.type }} {{ item.conference }} {{ item.location }} <a href="{{ item.url }}">{{ item.url }}</a></p>
       {% endfor %}
     {% else %}
       {% for item in site.data.presentations.index %}
-      <p>{{ item.author }} {{ item.date }} <i>{{ item.title }}</i>{{ item.type }} {{ item.conference }} {{ item.location }} <a href="{{ item.url }}">{{ item.url }}</a></p>
+      <p>{{ item.author }} {{ item.date }} <i>{{ item.title }}</i> {{ item.type }} {{ item.conference }} {{ item.location }} <a href="{{ item.url }}">{{ item.url }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
