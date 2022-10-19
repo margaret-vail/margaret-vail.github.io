@@ -17,10 +17,9 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/margaret-vail'}
+- {icon: 'twitter', link: 'https://twitter.com/margaret_vail'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/margaretvail'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Margaret Vail', title: 'Systems & Data Services Librarian', department: 'Angus L. Macdonald Library', institution: 'St. Francis Xavier University', institution_address: '3080 Martha Dr. Antigonish, NS, B2G 2W5', phone: '(902) 867-4869', email: 'mvail@stfx.ca', office: 'Room 303', image: 'assets/img/i love being xaverian.jpg'}
