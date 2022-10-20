@@ -11,12 +11,75 @@ featured:
 
 
 index:
-- {
+ - {
     title: 'Through the sands of the hourglass, these are the data of our lives—FAIRing the DLI Training Repository', 
     author: 'Ripp, C., Sawchuk, S., Vail, M., & Cooper, A.',
     type: '[Conference presentation].',
     date: '(2022, June 8).',
     conference: 'IASSIST 2022,',
-    location: 'Gothenburg, Sweden.',
-    url: '/publications/1501.07274.pdf'
+    location: 'Gothenburg, Sweden',
+    url: ''
+  }
+ - {
+    title: 'Where to deposit your data: Dataverse? FRDR? Other?', 
+    author: 'Vail, M.',
+    type: '[Webinar].',
+    date: '(2021, November 4).',
+    conference: 'CAUL 2021 Research Data Management Series,',
+    location: 'Online.',
+    url: ''
+  }
+ - {
+    title: 'Introduction to R', 
+    author: 'Vail, M.',
+    type: '[Workshop].',
+    date: '(2021, January 19).',
+    conference: 'ACENET Data Organization & Analysis for Humanities and Social Sciences,',
+    location: 'Online.',
+    url: ''
+  }
+ - {
+    title: 'Introduction to Data Repositories & Dataverse', 
+    author: 'Vail, M.',
+    type: '[Webinar].',
+    date: '(2020, October 21).',
+    conference: 'CAUL RDM Roadshow,',
+    location: 'Online.',
+    url: ''
+  }
+ - {
+    title: 'Dataverse: What is it and why is everyone talking about it', 
+    author: 'Vail, M.',
+    type: '[Conference presentation].',
+    date: '(2019, May 8).',
+    conference: 'DLI Atlantic,',
+    location: 'Halifax, NS',
+    url: ''
+  }
+ - {
+    title: 'Tips, Tricks, & Hacks: Office 365', 
+    author: 'Vail, M.',
+    type: '[Conference presentation].',
+    date: '(2018).',
+    conference: 'Dalhousie Libraries Conference,',
+    location: 'Halifax, NS',
+    url: ''
+  }
+ - {
+    title: 'Dalhousie Researchers’ Response to the Tri-Agency Policy on Open Access Publications', 
+    author: 'Vail, M., Heidi, H., Lesser, B., Lightfoot, T., & Nardecchia, L.',
+    type: '[Conference poster].',
+    date: '(2017, May 25).',
+    conference: 'APLA 2017,',
+    location: 'Charlottetown, PE',
+    url: ''
+  }
+ - {
+    title: 'Seeding Ideas: Seed Lending at Dalhousie Libraries', 
+    author: 'Vail, M., & Reid, J.',
+    type: '[Conference presentation].',
+    date: '(2015, June 11).',
+    conference: 'APLA 2015,',
+    location: 'St. John’s, NL',
+    url: ''
   }
